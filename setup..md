@@ -1,4 +1,4 @@
-##PLUMED
+## PLUMED
 ```
 ./configure
 ```
